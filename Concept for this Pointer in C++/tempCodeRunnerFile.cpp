@@ -1,0 +1,1 @@
+nt a) returns a copy of the object, which is less efficient and breaks method chaining.
